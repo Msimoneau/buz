@@ -1,6 +1,6 @@
 # Buz
 
-Une application native (OSX, Linux) qui permet de gérer des conteneurs (Docker) et des machines virtuelles (VirtualBox) qui résident sur différents hôtes. Les technologies utilisées:
+Une application native (OSX, Linux) qui permet de gérer des conteneurs (Docker) et des machines virtuelles (VirtualBox) qui résident sur différents hôtes. Voici les technologies utilisées:
 * NW.js;
 * Angular;
 * Material Design;
